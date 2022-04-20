@@ -8,7 +8,7 @@ const styles = {
     margin: '40px auto'
 };
 const styleH1 = {
-    fontSize: '50px',
+    fontSize: '30px',
     textAlign: 'center',
     fontFamily: 'Arial',
     color: 'darkblue'
@@ -17,7 +17,7 @@ const styleH1 = {
 const styleText = {
     textAlign: 'center',
     fontFamily: 'Arial',
-    fontSize: '20px',
+    fontSize: '15px',
     color: 'darkblue'
 };
 

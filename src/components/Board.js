@@ -4,8 +4,8 @@ import Square from './Square';
 const style = {
     border: '4px solid darkblue',
     borderRadius: '10px',
-    width: '400px',
-    height: '400px',
+    width: '200px',
+    height: '200px',
     margin: '50px auto',
     display: 'grid',
     gridTemplate: 'repeat(3, 1fr) / repeat(3, 1fr)'
